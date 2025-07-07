@@ -6,5 +6,5 @@ participantes = [
 ]
 
 print("Participantes del Examen:")
-for nombre in participantes:
-    print(f"-{nombre}")
+for nombres in participantes:
+    print(f"-{nombres}")
